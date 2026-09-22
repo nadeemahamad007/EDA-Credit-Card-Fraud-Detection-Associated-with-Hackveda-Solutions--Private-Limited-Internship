@@ -216,15 +216,8 @@ The reusable dashboard is available through:
 
     app.py
 
-## Internship Context
-
-This project was completed as part of my **Data Science Internship associated with Hackveda Solutions Private Limited Internship**.
-
-The project demonstrates practical work in exploratory data analysis, statistical investigation, visualization, anomaly detection, dimensionality reduction, and interactive analytics using Python.
-
 ## Author
 
-**Nadeem Ahamad**
+Nadeem Ahamad
 
-Data Science / Data Analytics Portfolio
-
+Data Science Internship Project associated with **Hackveda Solutions Private Limited Internship**, focused on exploratory data analysis, credit card transaction analysis, fraud pattern investigation, anomaly detection, dimensionality reduction, and interactive visualization using Python, Pandas, Scikit-learn, and Streamlit.
